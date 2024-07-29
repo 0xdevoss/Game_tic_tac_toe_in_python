@@ -16,7 +16,7 @@
   <li>still stupid AI</li>
 </ul>
 
-<h2>The third model: xo_newEdition.py</h2>
+<h2>The third model: xo_cpuChoice.py</h2>
 <p>Improvement in artificial intelligence.</p>
 <ul>
   <li>hardeste</li>
